@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on web development and, both frontend and backend with modern frameworks such as React, Next, MongoDB, Tailwind etc...
+I'm currently working on web development, both frontend and backend with modern frameworks such as React, Next, MongoDB, Tailwind etc...
 
 
 ## 🌐 Socials:
